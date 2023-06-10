@@ -1,0 +1,16 @@
+Penjelasan
+
+Generic
+Tipe class atau antarmuka menjadi parameter ketika mendefiniskan classs antarmuaka atau metode
+(Memungkinkan membuat kode lebih aman dan dapat digunakan kembali).
+
+Kesimpulan
+1.BangunDatarGeneric.java
+  Mengganti T menjadi T2 dapat memberi nama parameter generic deskriptif, sehingga 
+  saat menggunakan parameter generik lebih dari 1 di kelas tersebut, dapat dibedakan.
+
+
+2.BangunDatarGenericTest.java
+  bdg.get,get.class,get.name digunakan untuk mendapatkan nama kelas yang extend kelas abstrak bangun datar dan akan digunakan pada 
+  class BangunDatarGenericTest.
+  
